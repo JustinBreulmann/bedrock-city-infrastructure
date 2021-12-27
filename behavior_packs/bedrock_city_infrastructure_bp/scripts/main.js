@@ -9,3 +9,5 @@
 // Build-Trace #4: Banking App mit Kontostand und Überweisungen
 
 // Build-Trace #5: Karriere-Menüs für Polizei, Feuerwehr und Stadtwerke
+
+// Build-Trace #6: Leitstellen-Funk Notruf-Benachrichtigungen
