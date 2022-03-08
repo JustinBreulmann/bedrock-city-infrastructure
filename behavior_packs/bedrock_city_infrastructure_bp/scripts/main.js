@@ -13,3 +13,5 @@
 // Build-Trace #6: Leitstellen-Funk Notruf-Benachrichtigungen
 
 // Build-Trace #7: kleines Update
+
+// Build-Trace #8: min_engine_version auf 1.18.0 angehoben
