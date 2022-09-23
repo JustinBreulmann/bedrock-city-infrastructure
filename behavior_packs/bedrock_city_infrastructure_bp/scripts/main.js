@@ -21,3 +21,5 @@
 // Build-Trace #10: Datei neu formatiert
 
 // Build-Trace #11: Messenger App mit Spielersuche
+
+// Build-Trace #12: Smartphone Hauptmenü mit App-Raster
