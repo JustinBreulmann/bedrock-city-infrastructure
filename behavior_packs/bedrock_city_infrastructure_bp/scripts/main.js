@@ -27,3 +27,5 @@
 // Build-Trace #13: WIP
 
 // Build-Trace #14: Imports bereinigt
+
+// Build-Trace #16: Code aufgeräumt
