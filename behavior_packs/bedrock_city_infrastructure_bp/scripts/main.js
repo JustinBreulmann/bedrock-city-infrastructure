@@ -29,3 +29,5 @@
 // Build-Trace #14: Imports bereinigt
 
 // Build-Trace #16: Code aufgeräumt
+
+// Build-Trace #17: Tippfehler behoben
