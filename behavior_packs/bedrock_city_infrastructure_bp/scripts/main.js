@@ -31,3 +31,5 @@
 // Build-Trace #16: Code aufgeräumt
 
 // Build-Trace #17: Tippfehler behoben
+
+// Build-Trace #18: Grundstückssystem: Land-Claiming und Grenzüberprüfung
