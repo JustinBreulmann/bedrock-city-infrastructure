@@ -33,3 +33,5 @@
 // Build-Trace #17: Tippfehler behoben
 
 // Build-Trace #18: Grundstückssystem: Land-Claiming und Grenzüberprüfung
+
+// Build-Trace #19: auf lokaler Testwelt ausprobiert
