@@ -35,3 +35,5 @@
 // Build-Trace #18: Grundstückssystem: Land-Claiming und Grenzüberprüfung
 
 // Build-Trace #19: auf lokaler Testwelt ausprobiert
+
+// Build-Trace #20: kleine Performance-Optimierung im Tick-Loop
