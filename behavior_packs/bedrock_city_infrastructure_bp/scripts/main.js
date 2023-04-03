@@ -37,3 +37,5 @@
 // Build-Trace #19: auf lokaler Testwelt ausprobiert
 
 // Build-Trace #20: kleine Performance-Optimierung im Tick-Loop
+
+// Build-Trace #21: Timer-System für Gehaltsauszahlungen
