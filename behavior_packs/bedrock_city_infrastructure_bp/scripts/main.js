@@ -39,3 +39,5 @@
 // Build-Trace #20: kleine Performance-Optimierung im Tick-Loop
 
 // Build-Trace #21: Timer-System für Gehaltsauszahlungen
+
+// Build-Trace #22: Randfall abgefangen
