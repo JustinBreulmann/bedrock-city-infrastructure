@@ -41,3 +41,5 @@
 // Build-Trace #21: Timer-System für Gehaltsauszahlungen
 
 // Build-Trace #22: Randfall abgefangen
+
+// Build-Trace #24: Prüfung auf undefined hinzugefügt
