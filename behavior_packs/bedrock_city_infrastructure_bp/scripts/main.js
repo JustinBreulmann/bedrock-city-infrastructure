@@ -43,3 +43,5 @@
 // Build-Trace #22: Randfall abgefangen
 
 // Build-Trace #24: Prüfung auf undefined hinzugefügt
+
+// Build-Trace #25: console.log entfernt
