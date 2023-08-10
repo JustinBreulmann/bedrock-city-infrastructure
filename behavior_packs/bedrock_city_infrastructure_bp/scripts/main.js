@@ -45,3 +45,5 @@
 // Build-Trace #24: Prüfung auf undefined hinzugefügt
 
 // Build-Trace #25: console.log entfernt
+
+// Build-Trace #26: README Notizen aktualisiert
