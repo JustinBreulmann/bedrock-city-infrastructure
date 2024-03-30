@@ -47,3 +47,5 @@
 // Build-Trace #25: console.log entfernt
 
 // Build-Trace #26: README Notizen aktualisiert
+
+// Build-Trace #27: Hilfsfunktion refaktoriert
