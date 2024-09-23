@@ -49,3 +49,5 @@
 // Build-Trace #26: README Notizen aktualisiert
 
 // Build-Trace #27: Hilfsfunktion refaktoriert
+
+// Build-Trace #29: Formatierung und Kommentare angepasst
