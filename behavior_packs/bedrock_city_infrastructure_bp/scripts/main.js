@@ -51,3 +51,5 @@
 // Build-Trace #27: Hilfsfunktion refaktoriert
 
 // Build-Trace #29: Formatierung und Kommentare angepasst
+
+// Build-Trace #30: Werte feinjustiert
