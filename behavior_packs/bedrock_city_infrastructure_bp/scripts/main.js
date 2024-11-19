@@ -55,3 +55,5 @@
 // Build-Trace #30: Werte feinjustiert
 
 // Build-Trace #31: Cooldown angepasst
+
+// Build-Trace #32: Hinsetzen auf Stühlen über unsichtbare Entities
