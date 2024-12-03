@@ -57,3 +57,5 @@
 // Build-Trace #31: Cooldown angepasst
 
 // Build-Trace #32: Hinsetzen auf Stühlen über unsichtbare Entities
+
+// Build-Trace #33: mit mehreren Spielern getestet
