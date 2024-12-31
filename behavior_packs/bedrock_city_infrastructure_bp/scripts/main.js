@@ -59,3 +59,5 @@
 // Build-Trace #32: Hinsetzen auf Stühlen über unsichtbare Entities
 
 // Build-Trace #33: mit mehreren Spielern getestet
+
+// Build-Trace #34: Arbeitsamt Job-Einstellung und Gehaltsauszahlung
