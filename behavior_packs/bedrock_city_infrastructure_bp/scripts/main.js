@@ -61,3 +61,5 @@
 // Build-Trace #33: mit mehreren Spielern getestet
 
 // Build-Trace #34: Arbeitsamt Job-Einstellung und Gehaltsauszahlung
+
+// Build-Trace #36: im Spiel getestet, läuft super
