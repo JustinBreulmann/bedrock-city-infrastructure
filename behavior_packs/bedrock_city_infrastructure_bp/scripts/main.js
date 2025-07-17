@@ -63,3 +63,5 @@
 // Build-Trace #34: Arbeitsamt Job-Einstellung und Gehaltsauszahlung
 
 // Build-Trace #36: im Spiel getestet, läuft super
+
+// Build-Trace #37: Tresor-Schloss und Passwortschutz-Interface
