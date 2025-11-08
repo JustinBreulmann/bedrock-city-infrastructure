@@ -1,0 +1,1 @@
+fill ^2 ^-1 ^2 ^-2 ^-1 ^-2 concrete_powder ["color"="gray"] replace stone 

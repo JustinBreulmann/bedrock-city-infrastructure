@@ -1,0 +1,11 @@
+give @s block:christmas_tree
+give @s block:christmas_tree_white
+give @s block:reindeer
+give @s block:gift
+give @s block:christmas_wreath
+give @s block:candy_cane
+give @s block:red_christmas_boots
+give @s block:blue_christmas_boots
+give @s block:santa_claus
+give @s block:snowman
+give @s block:christmas_light_1

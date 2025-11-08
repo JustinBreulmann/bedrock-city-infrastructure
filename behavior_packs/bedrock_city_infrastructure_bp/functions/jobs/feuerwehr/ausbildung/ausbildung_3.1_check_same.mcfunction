@@ -1,0 +1,1 @@
+tellraw @p[tag=ausbildung:Feuerwehr ] {"rawtext":[{"text":" §cEs hat sich nichts verändert"}]}

@@ -1,0 +1,1 @@
+replaceitem entity @a[tag=Feuerwehr , tag=einsatz] slot.hotbar 7 splash_potion 1

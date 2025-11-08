@@ -1,71 +1,13 @@
-// Initialer Skript-Prototyp
+import { world, system } from "@minecraft/server";
+import { initDB_Land, initSettings } from "./core/plot/functions.js";
+import { plots } from "./core/plot/plots.js";
+import { timer } from "./core/timer.js";
 
-// Build-Trace #1: Grundstruktur für Minecraft Bedrock 1.17 aufgesetzt
+system.runInterval(() => {
+    initDB_Land();
+    initSettings();
+    plots();
+    timer();
+}, 20);
 
-// Build-Trace #2: kleiner Fix
-
-// Build-Trace #3: Musik App Audio-Player Anbindung
-
-// Build-Trace #4: Banking App mit Kontostand und Überweisungen
-
-// Build-Trace #5: Karriere-Menüs für Polizei, Feuerwehr und Stadtwerke
-
-// Build-Trace #6: Leitstellen-Funk Notruf-Benachrichtigungen
-
-// Build-Trace #7: kleines Update
-
-// Build-Trace #8: min_engine_version auf 1.18.0 angehoben
-
-// Build-Trace #9: ups, das korrigiert
-
-// Build-Trace #10: Datei neu formatiert
-
-// Build-Trace #11: Messenger App mit Spielersuche
-
-// Build-Trace #12: Smartphone Hauptmenü mit App-Raster
-
-// Build-Trace #13: WIP
-
-// Build-Trace #14: Imports bereinigt
-
-// Build-Trace #16: Code aufgeräumt
-
-// Build-Trace #17: Tippfehler behoben
-
-// Build-Trace #18: Grundstückssystem: Land-Claiming und Grenzüberprüfung
-
-// Build-Trace #19: auf lokaler Testwelt ausprobiert
-
-// Build-Trace #20: kleine Performance-Optimierung im Tick-Loop
-
-// Build-Trace #21: Timer-System für Gehaltsauszahlungen
-
-// Build-Trace #22: Randfall abgefangen
-
-// Build-Trace #24: Prüfung auf undefined hinzugefügt
-
-// Build-Trace #25: console.log entfernt
-
-// Build-Trace #26: README Notizen aktualisiert
-
-// Build-Trace #27: Hilfsfunktion refaktoriert
-
-// Build-Trace #29: Formatierung und Kommentare angepasst
-
-// Build-Trace #30: Werte feinjustiert
-
-// Build-Trace #31: Cooldown angepasst
-
-// Build-Trace #32: Hinsetzen auf Stühlen über unsichtbare Entities
-
-// Build-Trace #33: mit mehreren Spielern getestet
-
-// Build-Trace #34: Arbeitsamt Job-Einstellung und Gehaltsauszahlung
-
-// Build-Trace #36: im Spiel getestet, läuft super
-
-// Build-Trace #37: Tresor-Schloss und Passwortschutz-Interface
-
-// Build-Trace #38: kleine Performance-Optimierung im Tick-Loop
-
-// Build-Trace #39: kleines Update
+console.warn("[Bedrock City Infrastructure] Smartphone OS & City Life aktiv.");

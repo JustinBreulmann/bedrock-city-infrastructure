@@ -1,0 +1,2 @@
+execute as @a[r=5,tag=!Moderator,x=-199,y=62,z=137,scores={Tick=1}] run tellraw @s {"rawtext":[{"text":" §c Kein Moderator §4angemeldet"}]}
+execute as @a[tag=Moderator,x=-199,y=62,z=137,r=5,scores={Tick=1}] run tellraw @a {"rawtext":[{"text":"[§4Channel4§f]§r "}, {"selector":"@s"}, {"text":"§a beginnt nun seine§2 Show"}]}

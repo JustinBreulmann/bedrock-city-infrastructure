@@ -5,8 +5,8 @@
     "description": "Complete City Life roleplay suite: in-game Smartphone OS (bank, messenger, maps, music, shop), multi-career Job system, plots/land claiming, automated elevators & security vaults",
     "uuid": "6d6a05c6-76ba-426d-8b89-cfc8c3a7f4d7",
     "version": [
-      0,
       1,
+      0,
       0
     ],
     "min_engine_version": [
@@ -20,8 +20,8 @@
       "type": "data",
       "uuid": "74e99d7a-ac53-46d2-b58a-902a796f261a",
       "version": [
-        0,
         1,
+        0,
         0
       ]
     },
@@ -31,8 +31,8 @@
       "uuid": "ab998c18-8cdf-4408-84e3-320b48d544e1",
       "entry": "scripts/main.js",
       "version": [
+        1,
         0,
-        3,
         0
       ]
     }
@@ -40,11 +40,19 @@
   "dependencies": [
     {
       "module_name": "@minecraft/server",
-      "version": "1.0.0-beta"
+      "version": "1.14.0"
     },
     {
       "module_name": "@minecraft/server-ui",
-      "version": "1.0.0-beta"
+      "version": "1.3.0"
+    },
+    {
+      "uuid": "6d747d32-a68d-4609-8a16-700594a2ab6d",
+      "version": [
+        1,
+        0,
+        0
+      ]
     }
   ]
 }

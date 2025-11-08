@@ -1,0 +1,39 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Bedrock City Infrastructure | RP",
+    "description": "Complete City Life roleplay suite: in-game Smartphone OS (bank, messenger, maps, music, shop), multi-career Job system, plots/land claiming, automated elevators & security vaults",
+    "uuid": "6d747d32-a68d-4609-8a16-700594a2ab6d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "0e7c6051-f0c4-44ff-aa3b-ffa16e38c27e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "6d6a05c6-76ba-426d-8b89-cfc8c3a7f4d7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
