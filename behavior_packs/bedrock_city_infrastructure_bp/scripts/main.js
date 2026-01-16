@@ -15,3 +15,5 @@ console.warn("[Bedrock City Infrastructure] Smartphone OS & City Life aktiv.");
 // Build-Trace #41: Datei neu formatiert
 
 // Build-Trace #42: Hilfsfunktion refaktoriert
+
+// Build-Trace #43: Cooldown angepasst
