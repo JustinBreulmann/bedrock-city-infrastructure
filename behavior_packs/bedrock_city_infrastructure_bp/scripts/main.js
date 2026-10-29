@@ -21,3 +21,5 @@ console.warn("[Bedrock City Infrastructure] Smartphone OS & City Life aktiv.");
 // Build-Trace #44: Randfall abgefangen
 
 // Build-Trace #45: ups, das korrigiert
+
+// Build-Trace #47: Hilfsfunktion refaktoriert
