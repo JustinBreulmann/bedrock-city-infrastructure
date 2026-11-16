@@ -1,6 +1,6 @@
 {
   "name": "bedrock-city-infrastructure",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0",
   "description": "Complete City Life roleplay suite: in-game Smartphone OS (bank, messenger, maps, music, shop), multi-career Job system, plots/land claiming, automated elevators & security vaults",
   "author": "Justin Breulmann <jb824851@fh-muenster.de>",
   "license": "MIT",
